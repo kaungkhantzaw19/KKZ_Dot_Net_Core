@@ -3,7 +3,7 @@ using System.Data;
 using System.Data.SqlClient;
 
 Console.WriteLine("Hello, World!");
-
+ 
 
 string connectionString = "Data Source=.;Initial Catalog=Dot_Net_Trainning_Batch_5;User ID=sa;Password=sa@123;";
 Console.WriteLine("connection string: "+connectionString);
